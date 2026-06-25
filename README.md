@@ -62,24 +62,17 @@ The DFIS framework follows a modular architecture where each forensic module per
 
 ## 📂 Project Structure
 
-```text
+```text📂 Project Structure
+
 Digital-Forensic-Investigation-System/
 │
-├── modules/                 # Core forensic modules
-│   ├── evidence_acquisition.py
-│   ├── system_analysis.py
-│   ├── network_analysis.py
-│   ├── dump_analysis.py
-│   ├── integrity.py
-│   └── report_generator.py
-│
-├── reports/                 # Generated forensic reports
-├── cases/                   # Case-based evidence storage
-├── screenshots/             # README images
-├── docs/                    # Documentation
-├── requirements.txt
-├── README.md
-└── main.py
+├── 🔍 Core Forensic Modules
+├── 📁 Case Management
+├── 📄 Report Generation
+├── 📚 Documentation
+├── 📸 Screenshots
+├── ⚙️ Configuration Files
+└── 📖 README.md
 ```
 
 ## 🛠️ Technologies Used
