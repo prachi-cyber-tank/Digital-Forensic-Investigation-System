@@ -139,17 +139,12 @@ python3 main.py
 - Graphical User Interface (GUI)
 - Cloud-based forensic investigation support
 
-## 👨‍💻 Authors
+## 👥 Contributors
 
-### Prachi Tank
-- 🎓 B.Tech Cybersecurity Student
-- 🏫 School of Engineering, PP Savani University
-- 💻 Project Role: System Design, Development & Documentation
-
-### Pari Patel
-- 🎓 B.Tech Cybersecurity Student
-- 🏫 School of Engineering, PP Savani University
-- 💻 Project Role: Development, Testing & Documentation
+| Contributor | Contribution |
+|-------------|--------------|
+| **Prachi Tank** | System Design, Development & Documentation |
+| **Pari Patel** | Development, Testing & Documentation |
 
 ## 📜 License
 
