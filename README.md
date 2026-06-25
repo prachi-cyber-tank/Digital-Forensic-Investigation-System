@@ -7,7 +7,7 @@
 
 A lightweight **Python-based Digital Forensic Investigation System (DFIS)** designed to perform **live forensic investigation**, **dump-based analysis**, **optimized evidence filtering**, **SHA-256 integrity verification**, and **automated forensic report generation** in a Kali Linux environment.
 
-## 📖 Project Overview
+## 📖 Project Overview 
 
 Digital investigations require reliable tools for collecting and analysing evidence while preserving its integrity. This project provides a lightweight command-line based forensic framework that combines live system investigation and dump analysis within a single application.
 
