@@ -144,8 +144,9 @@ python3 dfis.py
 
 ## 📜 License
 
-License information will be added in a future release.
+This project is licensed under the **MIT License**.
 
+See the [LICENSE](LICENSE) file for more details.
 
 ## ⭐ Why DFIS?
 
