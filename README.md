@@ -111,3 +111,54 @@ Run the application:
 ```bash
 python3 main.py
 ```
+
+## 🚀 Usage
+
+1. Launch the application.
+2. Select **Live Forensics** or **Dump Investigation**.
+3. Follow the interactive menu.
+4. Perform the required forensic analysis.
+5. Generate and save the forensic report.
+
+## 🌟 Project Highlights
+
+- 🔍 Live forensic investigation on running Linux systems
+- 💾 Dump-based forensic analysis
+- ⚡ Optimized filtering for efficient evidence extraction
+- 🔐 SHA-256 evidence integrity verification
+- 📄 Automated forensic report generation
+- 📂 Organized case-based evidence storage
+- 🐧 Lightweight command-line application for Kali Linux
+
+## 🚀 Future Enhancements
+
+- Memory forensics integration
+- Windows and macOS support
+- Timeline reconstruction
+- AI-assisted evidence analysis
+- Graphical User Interface (GUI)
+- Cloud-based forensic investigation support
+
+```markdown
+## 👨‍💻 Authors
+
+**Prachi Tank**
+
+Cybersecurity Student
+
+---
+
+**Pari Patel**
+
+Cybersecurity Student
+```
+
+## 📜 License
+
+License information will be added in a future release.
+
+
+## ⭐ Why DFIS?
+
+Unlike many educational forensic tools that focus on a single investigation technique, DFIS integrates both live forensic investigation and dump-based analysis within a single lightweight command-line application. The project emphasizes optimized evidence filtering, structured report generation, and evidence integrity verification using SHA-256, making it suitable for educational, research, and small-scale forensic investigations.
+
