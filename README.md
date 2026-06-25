@@ -100,16 +100,12 @@ Navigate to the project directory:
 cd Digital-Forensic-Investigation-System
 ```
 
-Install the required Python packages:
-
-```bash
-pip install -r requirements.txt
-```
+This project uses only Python's standard library, so **no additional packages are required**.
 
 Run the application:
 
 ```bash
-python3 main.py
+python3 dfis.py
 ```
 
 ## 🚀 Usage
