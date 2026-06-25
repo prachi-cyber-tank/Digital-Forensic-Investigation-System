@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Coming%20Soon-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-A lightweight Python-based Digital Forensic Investigation System (DFIS) designed to perform live forensic investigation and dump-based analysis using optimized filtering techniques. The system automates evidence collection, integrity verification, and forensic report generation in a Kali Linux environment.
+A lightweight **Python-based Digital Forensic Investigation System (DFIS)** designed to perform **live forensic investigation**, **dump-based analysis**, **optimized evidence filtering**, **SHA-256 integrity verification**, and **automated forensic report generation** in a Kali Linux environment.
 
 ## 📖 Project Overview
 
