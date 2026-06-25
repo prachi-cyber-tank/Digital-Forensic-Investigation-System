@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-red)
-![License](https://img.shields.io/badge/License-Coming%20Soon-lightgrey)
+![GitHub License](https://img.shields.io/github/license/prachi-cyber-tank/Digital-Forensic-Investigation-System)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A lightweight **Python-based Digital Forensic Investigation System (DFIS)** designed to perform **live forensic investigation**, **dump-based analysis**, **optimized evidence filtering**, **SHA-256 integrity verification**, and **automated forensic report generation** in a Kali Linux environment.
